@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Semestr II/Fizyka/Lab 5.md",
+                "file": "Studia/Semestr II/Fizyka/Lab 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd10c1eba3c9b674",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Semestr II/Fizyka/Lab 5.md",
+                "file": "Studia/Semestr II/Fizyka/Lab 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Semestr II/Fizyka/Lab 5.md",
+                "file": "Studia/Semestr II/Fizyka/Lab 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Semestr II/Fizyka/Lab 5.md"
+                "file": "Studia/Semestr II/Fizyka/Lab 10.md"
               }
             }
           }
@@ -147,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "603a3e1920471b03",
+  "active": "cf0ab8148d1667ce",
   "lastOpenFiles": [
-    "Studia/Semestr II/Fizyka/Lab 10.md",
+    "Programowanie",
+    "Studia/Semestr II/Fizyka/Lab 9.md",
+    "Studia/Semestr II/Fizyka/Lab 8.md",
     "Studia/Semestr II/Fizyka/Lab 5.md",
     "Studia/Semestr II/Fizyka/Lab 7.md",
-    "Studia/E7.jpg",
-    "Studia/Semestr II/Fizyka/Lab 9.md",
-    "Studia/Semestr II/Fizyka/Lab 8.md"
+    "Studia/Semestr II/Fizyka/Lab 10.md",
+    "Studia/asdasdasd.md",
+    "Studia/E7.jpg"
   ]
 }
