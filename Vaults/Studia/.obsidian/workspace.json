@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "cfd4b4dc3ff037cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fc032629680f340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7046d4546f9d6c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr II/Fizyka/Lab 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d622474e30f7ced0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestr II/Fizyka/Oceny.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "986295b342ec1ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a7ce3e044361a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b594484fd137f5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bba3b7519b4c64b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "795fd6273b8aa16c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "63cc7bd69bd8e983",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcf2f02e3b9df242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52268bde8c3a178",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semestr II/Fizyka/Oceny.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bbb46adbdf8dab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semestr II/Fizyka/Oceny.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "823d4c1c61c9dca3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fa301e4042aec40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semestr II/Fizyka/Oceny.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d622474e30f7ced0",
+  "lastOpenFiles": [
+    "Semestr II/Fizyka/Lab 2.md",
+    "Semestr II/Fizyka/Oceny.md",
+    "Semestr II/Fizyka/Lab 5.md",
+    "Semestr II/Fizyka/Lab 10.md",
+    "Semestr II/Fizyka/Lab 9.md",
+    "Semestr II/Fizyka/Lab 8.md",
+    "Semestr II/Fizyka/Lab 7.md",
+    "Untitled.md",
+    "E7.jpg",
+    "Semestr II/Fizyka/Sprawozdanie Lab 7.md",
+    "Semestr II/Untitled.md",
+    "Semestr II/Fizyka",
+    "Semestr II"
+  ]
+}
